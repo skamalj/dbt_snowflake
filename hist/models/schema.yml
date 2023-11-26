@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: source
+    database: DV_PROTOTYPE_DB
+    schema: dbtvault
+    tables:
+      - name: CUSTOMERADD
+      - name: CUSTOMERPHONE
